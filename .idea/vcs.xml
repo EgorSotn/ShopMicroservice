@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catalog-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-discovery-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gatway-security-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notification-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/order-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/security-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/transaction-service" vcs="Git" />
+  </component>
+</project>
